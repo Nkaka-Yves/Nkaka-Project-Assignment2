@@ -6,3 +6,8 @@ body{
     font-family: 'Courier New', Courier, monospace;
     color: rgb(228, 184, 159);
 }
+.fo{
+    color: khaki;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
