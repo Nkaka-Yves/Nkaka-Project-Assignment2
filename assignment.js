@@ -1,11 +1,12 @@
-function myFunction() {
-   var inday=document.getElementById("day").value;
-   var inmonth=document.getElementById("month").value;
-    var inyear=document.getElementById("year").value;
-    var gender=document.getElementById("male").value;
-   var day=parseInt(inday);
-   var month=parseInt(inmonth);
-   var year=parseInt(inyear);
-   var sum=day+month+year;
-   document.getElementById("demo").innerHTML=sum;
-  }
+function myfunc() {
+    var date=new date(document.getElementById("example-date-input"));
+    var dayin=date.getDay();
+    var month=date.getMonth();
+    var year=date.getYear();
+    document.getElementById("demo").innerHTML = dayin;
+    document.getElementById("demo").innerHTML = month;
+    document.getElementById("demo").innerHTML = year;
+}
+function gen() {
+    var
+}
