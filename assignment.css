@@ -4,11 +4,12 @@ body{
 }
 .declar{
     background-image: url('https://media1.tenor.com/images/bd4508efae84452400a478e8b4c72680/tenor.gif?itemid=5611463');
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: inherit;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgba(173, 171, 170, 0.945);
 }
 .fo{
-    color: khaki;
+    color: rgb(250, 248, 226);
     font-size: large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
