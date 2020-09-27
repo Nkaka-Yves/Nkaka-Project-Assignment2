@@ -8,7 +8,7 @@ This is a platform where you enter your birthday month and year and gender so th
 * go to github
 * visit this link https://nkaka-yves.github.io/Nkaka-Project-Assignment2/
 ## Known Bugs
-my javascript is not working propely I will Still improve on that
+no bugs
 ## Technologies Used
 *Html
 *Css
