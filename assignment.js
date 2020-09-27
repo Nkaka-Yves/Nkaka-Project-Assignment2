@@ -3,9 +3,7 @@ function myfunc() {
     var dayin=date.getDay();
     var month=date.getMonth();
     var year=date.getYear();
-    document.getElementById("demo").innerHTML = dayin;
-    document.getElementById("demo").innerHTML = month;
-    document.getElementById("demo").innerHTML = year;
+  alert(date);
 }
 function gen() {
     var
