@@ -10,9 +10,9 @@ This is a platform where you enter your birthday month and year and gender so th
 ## Known Bugs
 no bugs
 ## Technologies Used
-*Html
-*Css
-*Javascript
+* Html
+* Css
+* Javascript
 ## Support and contact details
 If you face an issue let me know on nkakayves515@gmail.com
 Copyright (c) {year} **Nkaka Yves**
