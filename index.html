@@ -43,7 +43,7 @@
                     <li>Saturday: Ama</li>
                 </ul>
             </div>
-            <div>
+            <div class="col-md-2 declar">
                 <form>
                     <div class="row dayofbirth col-dm-6">
                         <label for="inputbirthday">Enter your Birthday</label>
@@ -51,12 +51,16 @@
                             <input type="date" class="form-control" id="day">
                         </div>
                     </div>
-                    <div>
+                    <div class="row selectgender">
                         <label for="gender">Gender</label>
                         <label class="radio-inline"><input type="radio" value="female" name="optradio" id="gender" checked>Female</label>
                         <label class="radio-inline"><input type="radio" value="male" name="optradio" id="gender" >Male</label>
                     </div>
-                    
+                    <div>
+                        <button type="button" onclick="weekdays()">submit</button>
+                        <p><span>The Akan name is </span><label id="names"></label> </p>
+                        <p><span>The week day you born on is </span><label id="display"></label></p>
+                    </div>
                 </form>
             </div>
         </div>
