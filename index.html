@@ -43,21 +43,21 @@
                     <li>Saturday: Ama</li>
                 </ul>
             </div>
-            <div class="col-md-6 text-center declar">
-                <div class="form-group row">
-                    <label for="example-date-input" class="col-2 col-form-label">Date</label>
-                    <div class="col-10">
-                      <input class="form-control" type="date" value="2011-08-19" id="example-date-input">
+            <div>
+                <form>
+                    <div class="row dayofbirth col-dm-6">
+                        <label for="inputbirthday">Enter your Birthday</label>
+                        <div class="col-dm-10">
+                            <input type="date" class="form-control" id="day">
+                        </div>
                     </div>
-                </div>
-                <div class="form-group row">
-                    <label for="example-gender-input" class="col-2 col-form-label">Gender</label>
-                    <div class="col-10">
-                      <input type="radio">Male<br>
-                      <input type="radio">Female<br>
-                     </div> 
+                    <div>
+                        <label for="gender">Gender</label>
+                        <label class="radio-inline"><input type="radio" value="female" name="optradio" id="gender" checked>Female</label>
+                        <label class="radio-inline"><input type="radio" value="male" name="optradio" id="gender" >Male</label>
                     </div>
-                    <button onclick="myfunc" >Submit</button>
+                    
+                </form>
             </div>
         </div>
     </div>
