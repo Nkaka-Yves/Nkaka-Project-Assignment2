@@ -5,6 +5,7 @@ body{
 }
 .declar{
     background-image: url('https://media2.giphy.com/media/lSzQjkthGS1gc/200w.gif');
+    background-size: cover;
     font-style: inherit;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgba(173, 171, 170, 0.945);
